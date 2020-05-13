@@ -1,4 +1,4 @@
-module github.com/damonallison/gocalc/calculator/v2
+module github.com/damonallison/gocalc/v2
 
 go 1.14
 
