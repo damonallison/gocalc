@@ -1,4 +1,4 @@
-package calculator
+package v2
 
 import (
 	"testing"

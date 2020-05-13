@@ -1,8 +1,8 @@
-// Package calculator is a simple test calculator created to test go modules
+// Package v2 is a simple test calculator created to test go modules
 //
 // Notice that this is semantic version "v2", which breaks backward compatibility
 // with v1. Thus, a new version.
-package calculator
+package v2
 
 // AddInts adds 2 ints
 func AddInts(x, y int) int {
