@@ -13,3 +13,13 @@ func AddInts(x, y int) int {
 func SubtractInts(x, y int) int {
 	return x - y
 }
+
+// MultiplyInts multiplies 2 ints
+func MultiplyInts(x, y int) int {
+	return x * y
+}
+
+// DivideInts divides 2 ints
+func DivideInts(x, y int) int {
+	return x / y
+}
